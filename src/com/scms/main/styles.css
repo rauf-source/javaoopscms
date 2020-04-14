@@ -1,0 +1,40 @@
+.root {
+	-fx-background-color :#383838;
+
+}
+#parentContainer {
+
+-fx-background-color :#383838;
+-fx-background-image :url("image.jpg");
+}
+.manage{
+-fx-font-size: 20;
+	-fx-background-color:white;
+}
+.finances{
+	-fx-font-size: 20;
+	-fx-background-color:white;
+}
+#splitContainer {
+/*	-fx-background-color :#383838;*/
+	-fx-background-image :url("image.jpg");
+	-fx-font-family: "Tw Cen MT";
+}
+.label {
+	-fx-text-fill : black;
+		-fx-font-family: "Tw Cen MT";
+
+}
+.digits {
+	-fx-text-fill : black;
+	-fx-font-family: "monospace";
+	-fx-background-color:#E1E1E1 ;
+	-fx-font-size: 42;
+}
+.button {	
+	-fx-background-color :#32AEC7 ;
+	-fx-font-size: 20;
+	-fx-background-radius: 2;
+	-fx-font-family: "Tw Cen MT";
+
+}
